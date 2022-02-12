@@ -2,11 +2,10 @@
   
 > I'm currently a third year computer science student at __*University of Manitoba*__ specializing in **Database Systems** and **Software Engineering**. 
   
-> My area of interest includes but not limited to:
+> My area of interest mainly includes:
 > - Software Engineering
 > - Database
 > - Artificial Intelligence
-> - Machine Learning
 > - Data Structures and Algorithms
 > - Problem Solving
 
