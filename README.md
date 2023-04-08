@@ -1,6 +1,6 @@
 # 👋 Hi, My name is __Hasin__. And welcome to my github repo.
   
-> I'm currently a third year computer science student at __*University of Manitoba*__ specializing in **Database Systems** and **Software Engineering**. 
+> I'm currently a third year computer science student at the __*University of Manitoba*__ specializing in **Database Systems** and **Software Engineering**. 
   
 > My area of interest mainly includes:
 > - Software Engineering
